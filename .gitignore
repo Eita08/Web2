@@ -1,0 +1,28 @@
+# Archivos de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node.js / dependencias (si llegas a usar npm)
+node_modules/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+
+# Carpetas de compilación / producción
+dist/
+build/
+
+# Archivos de backup
+*.backup
+*.old
+
+# Oculta archivos de sistema ocultos (opcional)
+.*.swp
